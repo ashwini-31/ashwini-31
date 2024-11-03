@@ -1,21 +1,22 @@
 [![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)]
+
+
 <h1 align="center">Hi 👋, I'm Ashwini Shetty</h1>
 <h3 align="center">Exploring code, one bug at a time</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
+
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwini-31&label=Profile%20views&color=0e75b6&style=flat" alt="ashwini-31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwini-31" alt="ashwini-31" /></a> </p>
-
-- 🌱 I’m currently learning **Tenserflow, Reactnative**
+- 🌱 I’m currently learning **Power BI, Webflow**
 
 - 📫 How to reach me **ashwinichandrashekar19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashwini_c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwini_c_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashwini shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwini shetty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashwini-shetty-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwini-shetty-" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashwinichandras2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashwinichandras2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashwini_shetty19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwini_shetty19" height="30" width="40" /></a>
 </p>
